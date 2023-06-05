@@ -12,13 +12,13 @@
 
 ## 图片预览
 
-![](D:\MyCode\backEnd\java\S_BTest\reggie_take_out\reggie_take_out_maven\preview\category.png)
+![](https://github.com/Passing-of-A-Dream/reggie-take-out/blob/main/preview/category.png)
 
-![dish](D:\MyCode\backEnd\java\S_BTest\reggie_take_out\reggie_take_out_maven\preview\dish.png)
+![dish](https://github.com/Passing-of-A-Dream/reggie-take-out/blob/main/preview/dish.png)
 
-![employee](D:\MyCode\backEnd\java\S_BTest\reggie_take_out\reggie_take_out_maven\preview\employee.png)
+![employee](https://github.com/Passing-of-A-Dream/reggie-take-out/blob/main/preview/employee.png)
 
-![newDish](D:\MyCode\backEnd\java\S_BTest\reggie_take_out\reggie_take_out_maven\preview\newDish.png)
+![newDish](https://github.com/Passing-of-A-Dream/reggie-take-out/blob/main/preview/newDish.png)
 
-![setmeal](D:\MyCode\backEnd\java\S_BTest\reggie_take_out\reggie_take_out_maven\preview\setmeal.png)
+![setmeal](https://github.com/Passing-of-A-Dream/reggie-take-out/blob/main/preview/setmeal.png)
 
