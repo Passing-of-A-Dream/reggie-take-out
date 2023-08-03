@@ -1,2 +1,4 @@
-# src/main/resources/backend
-# src/main/resources/front
+src/main/resources/backend
+src/main/resources/front
+
+.gitigonre
