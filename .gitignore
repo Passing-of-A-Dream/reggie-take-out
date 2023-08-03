@@ -1,0 +1,3 @@
+# 屏蔽上面两个文件夹路径下的所有文件
+/src/main/resources/front/**
+/src/main/resources/backend/**
